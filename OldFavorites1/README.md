@@ -10,3 +10,6 @@ A five second sound file which contains the flag was inserted into the music vid
 
 Open the MP4 either normally or in an audio editing software such as audacity and listen for the warped sound which indicates where the flag is (2:19-2:24). Open the file in spectrogram view and zoom in on the correct time range where the flag appears.
 
+## Link to video
+
+https://drive.google.com/file/d/1JCC9UfhKxP7wKKStmk4Hk__eePgpBIbi/view?usp=sharing
